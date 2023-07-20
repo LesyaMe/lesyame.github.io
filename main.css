@@ -1,0 +1,30 @@
+* {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header {
+  max-width: 90%;
+  margin: 0 auto;
+}
+.menu>ul {
+  display: flex;
+  padding: 20px 0 0;
+}
+
+.menu>ul>li {
+  margin-right: 15px;
+  list-style-type: none;
+}
+
+a {
+  color: #e91e63;
+}
+
+.menu>ul>li>a {
+ font-weight: bold;
+}
+
+main {
+  max-width: 90%;
+  margin: 0 auto 45px;
+}
